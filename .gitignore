@@ -1,0 +1,5 @@
+.idea/
+*.log
+*.jtl
+jmeter-results.csv
+graph-test-results.csv
